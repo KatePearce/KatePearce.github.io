@@ -46,17 +46,33 @@ body {
 
 .container1 {
   background-color: #7FB069;
-  border-radius: 10px;
+  border-radius: 2px;
   margin: 50px;
+  font-family: 'Roboto', sans-serif;
+
   padding: 20px;
-  box-shadow: 10px 10px;
+  box-shadow: 5px 5px;
 
 }
 
 .container2 {
   background-color: #ca3c25;
-  border-radius: 10px;
+  border-radius: 2px;
   margin: 50px;
   padding: 20px;
-  box-shadow: 10px 10px;
+  font-family: 'Roboto', sans-serif;
+  box-shadow: 5px 5px;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+h2 {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+h3 {
+  font-family: 'Roboto', sans-serif;
+  color: white;
 }
