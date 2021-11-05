@@ -41,13 +41,13 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  margin: 20px;
+
 }
 
 .container1 {
   background-color: #7FB069;
   border-radius: 2px;
-  margin: 50px;
+  margin: 30px;
   font-family: 'Roboto', sans-serif;
 
   padding: 20px;
@@ -58,7 +58,7 @@ body {
 .container2 {
   background-color: #ca3c25;
   border-radius: 2px;
-  margin: 50px;
+  margin: 30px;
   padding: 20px;
   font-family: 'Roboto', sans-serif;
   box-shadow: 5px 5px;
