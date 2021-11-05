@@ -5,7 +5,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #ca3c25;
+  background-color: #1D1A05;
   font-family: 'Roboto', sans-serif;
 
 }
@@ -35,4 +35,28 @@ li a:hover {
 
 body {
   background-color: #fffbbd;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 20px;
+}
+
+.container1 {
+  background-color: #7FB069;
+  border-radius: 10px;
+  margin: 50px;
+  padding: 20px;
+  box-shadow: 10px 10px;
+
+}
+
+.container2 {
+  background-color: #ca3c25;
+  border-radius: 10px;
+  margin: 50px;
+  padding: 20px;
+  box-shadow: 10px 10px;
 }
