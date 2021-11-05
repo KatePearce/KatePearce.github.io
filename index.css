@@ -34,7 +34,7 @@ li a:hover {
 }
 
 body {
-  background-color: #fffbbd;
+  background-color: #E6AA68;
 }
 
 .flex-container {
@@ -64,6 +64,14 @@ body {
   box-shadow: 5px 5px;
 }
 
+footer {
+  background-color: #ca3c25;
+  border-radius: 2px;
+  margin: 30px;
+  padding: 20px;
+  font-family: 'Roboto', sans-serif;
+  box-shadow: 5px 5px;
+}
 h1 {
   font-family: 'Roboto', sans-serif;
   color: white;
