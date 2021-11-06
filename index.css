@@ -54,6 +54,7 @@ body {
 
   padding: 20px;
   box-shadow: 5px 5px;
+  text-align: center;
 
 }
 
@@ -64,6 +65,7 @@ body {
   padding: 20px;
   font-family: 'Roboto', sans-serif;
   box-shadow: 5px 5px;
+  text-align: center;
 }
 
 footer {
@@ -72,7 +74,9 @@ footer {
   margin: 30px;
   padding: 20px;
   font-family: 'Roboto', sans-serif;
-  box-shadow: 5px 5px;
+  box-shadow: 5px 5px white;
+  text-align: center;
+  color: white;
 }
 h1 {
   font-family: 'Roboto', sans-serif;
